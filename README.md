@@ -118,4 +118,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## License
 
-[Your chosen license]
+GPL 3.0
